@@ -624,18 +624,6 @@ video {
   max-width: 72rem;
 }
 
-.max-w-3xl {
-  max-width: 48rem;
-}
-
-.max-w-7xl {
-  max-width: 80rem;
-}
-
-.max-w-5xl {
-  max-width: 64rem;
-}
-
 .flex-1 {
   flex: 1 1 0%;
 }
@@ -942,11 +930,6 @@ body {
 
 .hamburger-bottom {
   transform: translateY(14px);
-}
-
-.open {
-  transform: rotate(90deg);
-  transform: translateY(0px);
 }
 
 .open .hamburger-top {
